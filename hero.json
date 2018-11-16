@@ -1,0 +1,34 @@
+{
+  "heros": [
+    {
+      "real_name": "Barry Allen",
+      "hero_name": "Flash",
+      "power": "Super Speed",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "hero_name": "Batman",
+      "real_name": "Bruce Wayne",
+      "power": "Billionaire"
+    },
+    {
+      "real_name": "Spiderman",
+      "hero_name": "Peter Parker",
+      "power": "Spidy Sense",
+      "id": 3
+    },
+    {
+      "real_name": "Clara Kent",
+      "hero_name": "Super Girl",
+      "power": "Everything",
+      "id": 4
+    },
+    {
+      "real_name": "Stevens Strange",
+      "hero_name": "Dr. Strange",
+      "power": "Levitation, Magic",
+      "id": 5
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.home {
+  padding: 5px 10px;
+  background: #ccc;
+  border-radius: 5px;
+  color: white;
+  margin-right: 20px;
+  text-decoration: none;
+}
+
+.add {
+  padding: 5px 10px;
+  background: #ccc;
+  border-radius: 5px;
+  color: white;
+  text-decoration: none;
+}
+
+.homeContainer {
+  margin-top: 50px;
+}
+
+.homeContainer input {
+  padding: 4px;
+  margin: 10px;
+}
